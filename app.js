@@ -140,6 +140,7 @@ function makeParallelRequests(requests) {
     if ( newStartIndex > maxPages && refetchPagesArray.length === 0) {
       fs.writeFileSync('test.sql', sqlQueryUtil.preInsertString + dataValues.join(','));
       console.log('Completed all requests');
+      console.timeEnd('totalTime');
       return;
     } else if (newStartIndex > maxPages) {
 
@@ -154,6 +155,9 @@ function makeParallelRequests(requests) {
         console.log('Number of requests has not changed since last request. Terminating without fetching all pages');
         console.log(`These pages were not properly fetched:\n\n  [${previouslyRefetchedArray.join(', ')}]\n\n`);
         fs.writeFileSync('test.sql', sqlQueryUtil.preInsertString + dataValues.join(','));
+
+        console.log('Total time');
+        console.timeEnd('totalTime');
         return;
       }
       console.log(`Sleeping for 60 seconds before starting leftover requests`);
@@ -182,6 +186,8 @@ function makeParallelRequests(requests) {
     }
   });
 }
+
+console.time("totalTime");
 
 makeParallelRequests(totalRequests[indexCounter]);
 

@@ -1,0 +1,1121 @@
+{
+  "feed": {
+    "$": {
+      "xmlns": "http://www.w3.org/2005/Atom"
+    },
+    "title": [
+      "FPDS-NG search results for: *:*"
+    ],
+    "link": [
+      {
+        "$": {
+          "rel": "last",
+          "type": "text/html",
+          "href": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?s=FPDS&FEEDNAME=OFFICE&q=*%3A*&start=322380"
+        }
+      },
+      {
+        "$": {
+          "rel": "next",
+          "type": "text/html",
+          "href": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?s=FPDS&FEEDNAME=OFFICE&q=*%3A*&start=10"
+        }
+      }
+    ],
+    "modified": [
+      ""
+    ],
+    "author": [
+      {
+        "name": [
+          ""
+        ]
+      }
+    ],
+    "entry": [
+      {
+        "title": [
+          "5700 F8B6ES under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-05 20:24:15"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "P O BOX 4789"
+                ],
+                "ns1:city": [
+                  "HELENA"
+                ],
+                "ns1:state": [
+                  "MT"
+                ],
+                "ns1:ZIPCode": [
+                  "59604-4789"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100000"
+                ],
+                "ns1:officeID": [
+                  "F8B6ES"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "ESSO"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:29"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-05 20:24:15"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8B6FS under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-01 17:55:01"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "P O BOX 4789"
+                ],
+                "ns1:city": [
+                  "HELENA"
+                ],
+                "ns1:state": [
+                  "MT"
+                ],
+                "ns1:ZIPCode": [
+                  "59604-4789"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100001"
+                ],
+                "ns1:officeID": [
+                  "F8B6FS"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "FAMILY SUPPORT"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:29"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-01 17:55:01"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8B6RR under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-05 20:24:15"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "P O BOX 4789"
+                ],
+                "ns1:city": [
+                  "GREAT FALLS"
+                ],
+                "ns1:state": [
+                  "MT"
+                ],
+                "ns1:ZIPCode": [
+                  "59604-4789"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100002"
+                ],
+                "ns1:officeID": [
+                  "F8B6RR"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "REC AND RET  MONTANA ANG"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:29"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-05 20:24:15"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8B7RH under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-04 17:38:21"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "6828 1ST AVE N"
+                ],
+                "ns1:city": [
+                  "MALMSTROM AFB"
+                ],
+                "ns1:state": [
+                  "MT"
+                ],
+                "ns1:ZIPCode": [
+                  "59402-7522"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100003"
+                ],
+                "ns1:officeID": [
+                  "F8B7RH"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "RED HORSE"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:29"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-04 17:38:21"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8BJ01 under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-04 17:18:32"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "2800 AIRPORT AVE B BLDG 64"
+                ],
+                "ns1:city": [
+                  "GREAT FALLS"
+                ],
+                "ns1:state": [
+                  "MT"
+                ],
+                "ns1:ZIPCode": [
+                  "59404-5570"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100004"
+                ],
+                "ns1:officeID": [
+                  "F8BJ01"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "RECRUITING"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:29"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-04 17:18:32"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8D3ST under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2008-07-16 22:07:37"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "6760 IRVINGTON PL"
+                ],
+                "ns1:city": [
+                  "DENVER"
+                ],
+                "ns1:state": [
+                  "CO"
+                ],
+                "ns1:ZIPCode": [
+                  "80279"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100005"
+                ],
+                "ns1:officeID": [
+                  "F8D3ST"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "SAF FMP AFAFO  BPN"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:endDate": [
+                  "2008-07-16 22:07:37"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:30"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2008-07-16 22:07:37"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8E0SG under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-05 20:24:57"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "2420 W BUTLER AVE"
+                ],
+                "ns1:city": [
+                  "LINCOLN"
+                ],
+                "ns1:state": [
+                  "NE"
+                ],
+                "ns1:ZIPCode": [
+                  "68524-1888"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100006"
+                ],
+                "ns1:officeID": [
+                  "F8E0SG"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "WING SAFETY"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:31"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-05 20:24:57"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8E1FL under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-05 20:15:27"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "2420 W BUTLER AVE"
+                ],
+                "ns1:city": [
+                  "LINCOLN"
+                ],
+                "ns1:state": [
+                  "NE"
+                ],
+                "ns1:ZIPCode": [
+                  "68524-1888"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100007"
+                ],
+                "ns1:officeID": [
+                  "F8E1FL"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "OPERATIONS SQ"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:31"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-05 20:15:27"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8E2MG under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-02-28 14:46:08"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "2420 W BUTLER AVE"
+                ],
+                "ns1:city": [
+                  "LINCOLN"
+                ],
+                "ns1:state": [
+                  "NE"
+                ],
+                "ns1:ZIPCode": [
+                  "68524-1888"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100008"
+                ],
+                "ns1:officeID": [
+                  "F8E2MG"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "MAINTENANCE GROUP"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:31"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-02-28 14:46:08"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": [
+          "5700 F8E3CE under DEPT OF DEFENSE, was modified"
+        ],
+        "modified": [
+          "2020-03-01 18:42:35"
+        ],
+        "content": [
+          {
+            "$": {
+              "type": "application/xml",
+              "xmlns:ns1": "https://www.fpds.gov/FPDS"
+            },
+            "ns1:governmentOffice": [
+              {
+                "$": {
+                  "xmlns:ns1": "https://www.fpds.gov/FPDS"
+                },
+                "ns1:streetAddress": [
+                  "AF BPN NO MILSBILLS PROCESSES"
+                ],
+                "ns1:streetAddress2": [
+                  "2420 W BUTLER AVE"
+                ],
+                "ns1:city": [
+                  "LINCOLN"
+                ],
+                "ns1:state": [
+                  "NE"
+                ],
+                "ns1:ZIPCode": [
+                  "68524-1888"
+                ],
+                "ns1:countryCode": [
+                  "USA"
+                ],
+                "ns1:governmentOfficeID": [
+                  "GOV-100009"
+                ],
+                "ns1:officeID": [
+                  "F8E3CE"
+                ],
+                "ns1:agencyID": [
+                  "5700"
+                ],
+                "ns1:officeName": [
+                  "CIVIL ENGINEER SQ"
+                ],
+                "ns1:agencyName": [
+                  "DEPT OF THE AIR FORCE"
+                ],
+                "ns1:parentOrganizationID": [
+                  "ORG-2252"
+                ],
+                "ns1:parentOrganizationCode": [
+                  "5700"
+                ],
+                "ns1:hierarchyOfOrganizations": [
+                  {
+                    "ns1:organization": [
+                      {
+                        "_": "9700",
+                        "$": {
+                          "id": "ORG-1144",
+                          "description": "DEPT OF DEFENSE",
+                          "categoryID": "CAT-3",
+                          "categoryDesc": "DEPARTMENT"
+                        }
+                      },
+                      {
+                        "_": "5700",
+                        "$": {
+                          "id": "ORG-2252",
+                          "description": "DEPT OF THE AIR FORCE",
+                          "categoryID": "CAT-4",
+                          "categoryDesc": "AGENCY"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "ns1:isContractingOffice": [
+                  "false"
+                ],
+                "ns1:startDate": [
+                  "2003-10-01 00:00:00"
+                ],
+                "ns1:auditInformation": [
+                  {
+                    "ns1:createdBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:createdDate": [
+                      "2006-04-14 20:10:31"
+                    ],
+                    "ns1:lastModifiedBy": [
+                      "FPDSADMIN"
+                    ],
+                    "ns1:lastModifiedDate": [
+                      "2020-03-01 18:42:35"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

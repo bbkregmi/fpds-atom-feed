@@ -96,6 +96,13 @@ function generateRequests(startIndex) {
     });
   }
 
+  // Tack in last page as well. Did not want to change comparison of for loop to <= 
+  // because then I'd have to re-adjust the i=startIndex part for duplicate requests
+  if (endPointPage === maxPages) {
+    requests.push(function(callback){
+      createRequestsForPage(maxPages, callback);
+   });  }
+
   return requests;
 }
 
